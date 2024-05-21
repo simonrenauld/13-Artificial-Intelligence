@@ -1,4 +1,4 @@
-#### 13-Artificial-Intelligence
+# 13-Artificial-Intelligence Ollama
 
 ## Installing ollama on Ubuntu 
 sudo apt update
