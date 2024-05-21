@@ -23,3 +23,4 @@ ollama pull llama2
 
 
 ### Check performance of the model
+watch -n 0.5 nvidia-smi
