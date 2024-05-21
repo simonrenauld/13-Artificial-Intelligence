@@ -15,3 +15,11 @@ sudo apt update
 
 ### Run localy 
 http://localhost:11434/
+
+
+### Add models to ollama
+
+ollama pull llama2
+
+
+### Check performance of the model
