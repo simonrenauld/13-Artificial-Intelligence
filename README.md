@@ -53,3 +53,11 @@ sudo docker run -d --network=host -v open-webbui:/app/backend/data -e OLLAMA_BAS
 sudo docker ps
 ![Uploading image.png…]()
 
+
+AWS Environment Cost Calculations
+1 endpoint x 1 instance per endpoint x 24 hours per day x 30 days per month = 720.00 SageMaker Real-Time Inference hours per month 720.00 hours per month x $2.03 per hour instance cost = $1,461.60 (monthly On-Demand cost).
+
+Total cost for Inference (monthly): $1,461.60
+
+Here is the link to the AWS Cost Estimation Report: AWS Cost Estimate
+
